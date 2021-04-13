@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.apps {
+  background-image: url("https://images.pexels.com/photos/6331043/pexels-photo-6331043.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
